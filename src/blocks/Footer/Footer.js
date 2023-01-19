@@ -2,8 +2,8 @@ import "./Footer.css"
 import sign from "../img/next.svg";
 import briefcase from "../img/briefcase.svg";
 import mail from "../img/mail.svg";
-import facebook from "../img/facebook-logo-in-circular-button-outlined-social-symbol.svg";
-import twitter from "../img/twitter-circular-button.svg";
+// import facebook from "../img/facebook-logo-in-circular-button-outlined-social-symbol.svg";
+// import twitter from "../img/twitter-circular-button.svg";
 
 
 const Footer = () => {

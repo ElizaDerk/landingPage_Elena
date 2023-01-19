@@ -4,10 +4,6 @@ import logo from "../../img/logo.png"
 
 const Navbar = () =>{
 
-    // const [navbarOpen, setNavbarOpen] = useState(false)
-    // const handleToggle = () => {
-    //     setNavbarOpen(!navbarOpen)
-    // }
 
     const [menuActive, setMenuActive] = useState(false)
 
@@ -32,15 +28,6 @@ const Navbar = () =>{
 
            <MenuBurger active={menuActive} setActive={setMenuActive} items={items}/>
 
-
-            {/*<nav className="navBar">*/}
-            {/*    <button onClick={handleToggle}>{navbarOpen ? "x" : "="}</button>*/}
-            {/*    <ul className={`menuNav ${navbarOpen ? " showMenu" : " "}`}>*/}
-            {/*        <a href="#t2" className="nav-item">ABOUT</a>*/}
-            {/*        <a href="#t3" className="nav-item">SERVICES</a>*/}
-            {/*        <a href="#t5" className="nav-item">CONTACT</a>*/}
-            {/*    </ul>*/}
-            {/*</nav>*/}
         </div>
     )
  }
