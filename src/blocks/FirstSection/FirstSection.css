@@ -1,0 +1,51 @@
+.container{
+   background: url("../img/f2.png") no-repeat center;
+    margin: 150px auto 117px;
+    height: 560px;
+}
+
+.title-first-section{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 53px;
+    color: #333333;
+    padding-top: 77px;
+    display: inline-block;
+    position: relative;
+}
+
+.span-first-section{
+    font-size: 42px;
+    line-height: 49px;
+    color: #504E4E;
+}
+
+.text-first-section{
+    display: flex;
+    width: 281px;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 1.26px;
+    color: #5B5858;
+}
+
+.text-first-section:before{
+    margin-right: 10px;
+    margin-top: 10px;
+    content: "";
+    display: block;
+    width: 60px;
+    height: 2px;
+    background: #353535;
+}
+
+.one{
+  position: absolute;
+    transform: translate(30%, 100px);
+}
+
+.two{
+    float: right;
+    transform: translate(-55px, 400px);
+}
+
