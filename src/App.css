@@ -7,6 +7,10 @@
     background: #FBFBFB;
 }
 
+.logo-fst{
+    height: 80px;
+}
+
 .logo{
     width: 45%;
 }
@@ -104,10 +108,9 @@
     }
 
     .navigation{
-        /*padding: 30px 20px;*/
         background: black;
 
-        height: 100px;
+        height: 75px;
         width: 100%;
         position: fixed;
         z-index: 50;
@@ -152,6 +155,16 @@
         width: 20px;
         background-color: #FFFFFF;
         height: 2px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 415px) {
+    .logo-fst{
+        height: 40px;
+        margin-left: 30px;
     }
 
 }

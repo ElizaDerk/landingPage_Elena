@@ -2,7 +2,7 @@
     position: fixed;
     width: 100vw;
     height: 130vh;
-    top: 95px;
+    top: 65px;
     transform: translateX(-100%) ;
     transition: all 0.2s;
 }
@@ -11,13 +11,13 @@
     transform: translateX(0) ;
 }
 
-.blur{
-    width: 100vw;
-    height: 100vh;
-    backdrop-filter: blur(30px);
-    position: absolute;
-    top: 20%;
-}
+/*.blur{*/
+/*    width: 100vw;*/
+/*    height: 100vh;*/
+/*    backdrop-filter: blur(30px);*/
+/*    position: absolute;*/
+/*    top: 20%;*/
+/*}*/
 
 .menu__content{
     width: 100%;

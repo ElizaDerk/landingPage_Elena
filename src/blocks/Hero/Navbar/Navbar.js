@@ -15,7 +15,7 @@ const Navbar = () =>{
 
     return(
         <div className="navigation">
-            <img src={logo} alt="logo" height="80px" />
+            <img src={logo} alt="logo" className="logo-fst" />
             <div className="nav-items">
                 <a href="#t2" className="nav-item">ПРО НАС</a>
                 <a href="#t3" className="nav-item">ПОСЛУГИ</a>
