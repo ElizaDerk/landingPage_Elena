@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landingPage_Elena/static/css/main.e7e51e12.css",
-    "main.js": "/landingPage_Elena/static/js/main.de3cb62d.js",
+    "main.css": "/landingPage_Elena/static/css/main.043b97ab.css",
+    "main.js": "/landingPage_Elena/static/js/main.ddf0c32d.js",
     "static/js/787.ec1a0152.chunk.js": "/landingPage_Elena/static/js/787.ec1a0152.chunk.js",
     "static/media/Image.svg": "/landingPage_Elena/static/media/Image.b3445ed91615b1f3a9ad.svg",
     "static/media/f2.png": "/landingPage_Elena/static/media/f2.835973593b07b3edbbfd.png",
@@ -10,12 +10,12 @@
     "static/media/briefcase.svg": "/landingPage_Elena/static/media/briefcase.502ed8547379c5b80cfdc6b3423b8265.svg",
     "static/media/mail.svg": "/landingPage_Elena/static/media/mail.4de1723c1fc8942e0176702b5b7e86f9.svg",
     "index.html": "/landingPage_Elena/index.html",
-    "main.e7e51e12.css.map": "/landingPage_Elena/static/css/main.e7e51e12.css.map",
-    "main.de3cb62d.js.map": "/landingPage_Elena/static/js/main.de3cb62d.js.map",
+    "main.043b97ab.css.map": "/landingPage_Elena/static/css/main.043b97ab.css.map",
+    "main.ddf0c32d.js.map": "/landingPage_Elena/static/js/main.ddf0c32d.js.map",
     "787.ec1a0152.chunk.js.map": "/landingPage_Elena/static/js/787.ec1a0152.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7e51e12.css",
-    "static/js/main.de3cb62d.js"
+    "static/css/main.043b97ab.css",
+    "static/js/main.ddf0c32d.js"
   ]
 }
