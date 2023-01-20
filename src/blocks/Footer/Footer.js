@@ -20,7 +20,7 @@ const Footer = () => {
                     <p className="white-text">Наша адреса: </p>
                     <span className="card-text">79005, м. Львів, вулиця Івана Франка, будинок 15</span>
                     <p className="white-text">Зателефонуйте нам за номером: </p>
-                    <a href="tel:++380984609266" className="card-text">+38(098) 4 609 266</a>
+                    <a href="tel:+380984609266" className="card-text">+38(098) 4 609 266</a>
                     <p className="white-text">Або напешіть нам: </p>
                     <a href="mailto:oleg_makarenko@sovaprintua.com" className="card-text">oleg_makarenko@sovaprintua.com</a>
                 </div>
