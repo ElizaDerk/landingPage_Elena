@@ -8,19 +8,21 @@ import mail from "../img/mail.svg";
 
 const Footer = () => {
     return(
-        <div>
-            <div className="contact-block" id="t5">
+        <div id="t5">
+            <div className="contact-block">
                 <div className="contact-item white">
                     <img src={briefcase} alt="sign"/>
                     <h3 className="footer-title">Хочеш працювати з нами?</h3>
                     <p className="card-text">Дивовижно! Розкажіть нам про свій проект!</p>
-                    <a href="mailto:oleg_makarenko@sovaprintua.com"><img src={sign} alt="sign"/></a>
+                    <div><img src={sign} alt="sign"/></div>
                 </div>
                 <div className="contact-item green">
-                    <img src={mail} alt="sign"/>
-                    <h3 className="footer-title white-text">Дізнатися більше інформації</h3>
-                    <p className="card-text" style={{color: "#373737"}}>Зателефонуйте нам!</p>
-                    <a href="tel:++380984609266"><img src={sign} alt="sign"/></a>
+                    <p className="white-text">Наша адреса: </p>
+                    <span className="card-text">79005, м. Львів, вулиця Івана Франка, будинок 15</span>
+                    <p className="white-text">Зателефонуйте нам за номером: </p>
+                    <a href="tel:++380984609266" className="card-text">+38(098) 4 609 266</a>
+                    <p className="white-text">Або напешіть нам: </p>
+                    <a href="mailto:oleg_makarenko@sovaprintua.com" className="card-text">oleg_makarenko@sovaprintua.com</a>
                 </div>
             </div>
             <div className="footer">

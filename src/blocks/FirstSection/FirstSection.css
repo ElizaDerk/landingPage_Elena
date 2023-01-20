@@ -41,12 +41,12 @@
 
 .one{
   position: absolute;
-    transform: translate(30%, 100px);
+    transform: translate(0, 100px);
 }
 
 .two{
     float: right;
-    transform: translate(-55px, 400px);
+    transform: translate(0px, 400px);
 }
 
 .block-section{

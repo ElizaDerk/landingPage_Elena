@@ -6,15 +6,21 @@
 }
 
 .contact-item{
-    width: 50%;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 69px 20px;
 }
 
+.white{
+    width: 45%;
+}
+
 .green{
+    width: 55%;
+    align-items: flex-start;
     background: #70BD59;
+    padding-left: 15px;
 }
 
 .footer-title{
@@ -29,6 +35,7 @@
 
 .white-text{
     color: #FFFFFF;
+    margin-bottom: 0;
 }
 
 .footer{
