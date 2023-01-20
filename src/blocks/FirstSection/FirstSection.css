@@ -49,3 +49,8 @@
     transform: translate(-55px, 400px);
 }
 
+.block-section{
+    max-width: 70%;
+    margin: 0 auto;
+}
+

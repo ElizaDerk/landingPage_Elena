@@ -20,14 +20,14 @@ const Footer = () => {
                     <img src={mail} alt="sign"/>
                     <h3 className="footer-title white-text">Дізнатися більше інформації</h3>
                     <p className="card-text" style={{color: "#373737"}}>Зателефонуйте нам!</p>
-                    <a href="tel:+3590123456789"><img src={sign} alt="sign"/></a>
+                    <a href="tel:++380984609266"><img src={sign} alt="sign"/></a>
                 </div>
             </div>
             <div className="footer">
-                <p className="card-text">3rd Floor, Santa Monica Beach, CA, San Francisco</p>
+                <p className="card-text">79005, м. Львів, вулиця Івана Франка, будинок 15</p>
                 <div className="footer-address">
-                    <a href="tel:+3590123456789">(359) 0 123 456 789</a>
-                    <a href="mailto:oleg_makarenko@sovaprintua.com">info@yourmail.com</a>
+                    <a href="tel:+380984609266">+38(098) 4 609 266</a>
+                    <a href="mailto:oleg_makarenko@sovaprintua.com">oleg_makarenko@sovaprintua.com</a>
                 </div>
                 {/*<div className="footer-contacts">*/}
                 {/*    <a><img src={facebook} alt="sign"/></a>*/}
