@@ -1,6 +1,6 @@
 .first-block{
     background: url("../img/Image.svg") no-repeat center;
-    height: 100vh;
+    height: 120vh;
     background-size: cover;
     position: relative;
 }
