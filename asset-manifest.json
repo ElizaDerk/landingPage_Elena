@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/landingPage_Elena/static/css/main.d315ce58.css",
+    "main.js": "/landingPage_Elena/static/js/main.37104503.js",
+    "static/media/Image.svg": "/landingPage_Elena/static/media/Image.b3445ed91615b1f3a9ad.svg",
+    "static/media/f2.png": "/landingPage_Elena/static/media/f2.835973593b07b3edbbfd.png",
+    "static/media/logo1.png": "/landingPage_Elena/static/media/logo1.10d0d91f3bb54588c91e.png",
+    "static/media/next.svg": "/landingPage_Elena/static/media/next.f668f62f722663e33a7b38b2c9f172ba.svg",
+    "static/media/briefcase.svg": "/landingPage_Elena/static/media/briefcase.502ed8547379c5b80cfdc6b3423b8265.svg",
+    "static/media/mail.svg": "/landingPage_Elena/static/media/mail.4de1723c1fc8942e0176702b5b7e86f9.svg",
+    "index.html": "/landingPage_Elena/index.html",
+    "main.d315ce58.css.map": "/landingPage_Elena/static/css/main.d315ce58.css.map",
+    "main.37104503.js.map": "/landingPage_Elena/static/js/main.37104503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d315ce58.css",
+    "static/js/main.37104503.js"
+  ]
+}
